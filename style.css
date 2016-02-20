@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  border-width: 10px;
+  border-hight: 60px;
+  border-margin: 100px;
+  border: black solid;
+  /*background: #466368*/
+  background: linear-gradient(to right bottom, #648880, #293f50);  
+}
+.under-header {
+  text-align: center;
+  font: 50px bold;
+}
+
+.imac {
+  border: black solid;
+  width: 320px;
+  float: left;
+  margin: 20px;
+  text-align: center;
+} 
+ 
+.macbook {
+   border: black solid;
+   width: 320px;
+  float: left;
+  margin: 20px;
+  text-align: center;
+} 
+
+.iphone {
+  border: black solid;
+  width: 320px;
+  float: left;
+  margin: 20px;
+  text-align: center;
+} 
+body {
+  background: url("/Users/patrickniklaus/Desktop/UDACITY/NANODEGREE/Projects/images/iPhone scharf_1 (1 von 1) Kopie.jpg")
+}
